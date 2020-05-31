@@ -58,13 +58,30 @@ GatsbyJSの公式READMEを編集しながら書いていきます。
   │   ├─ pages
   │   └─ templates
   ```
+### gatsby-config.js
 
+  gatsbyサイトの設定全般情報を設定するファイルです。<br />
+  メタデータや利用するプラグインの設定が行えます。
 
+### gatsby-node.js
 
+  Gatsby Node APIsとやり取りをするものらしいですが、まだ使った事がないので今後使った時に理解して解説します。
 
+### gatsby-browser.js
 
+  ブラウザでの表示時に実行される設定を書くらしいですが初期状態ではコメントアウトしかありませんので、こちらも今後なにか分かったら更新していきます。
 
+### package.json
 
+  gatsbyのインストールされたパッケージ情報一覧です。<br />
+  gatsbyのシステムが利用するものなので普通は触らなくてOKです。
+
+### public
+### node_modules
+## srcの役割
+### src/components
+### src/pages
+### src/templates
 
 
 
