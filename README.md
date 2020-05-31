@@ -33,7 +33,7 @@ GatsbyJSの公式READMEを編集しながら書いていきます。
 
     ```shell
     # 先に新規フォルダを制作してフォルダの中で以下コマンドを実行する
-    yarn add getsby-cli  
+    yarn add getsby-cli
     ```
 2.  **GatsbyJS参考サイトや書籍**
   私がGatsbyJSを試すに当たって参考になったサイトや書籍を紹介します。
@@ -44,6 +44,11 @@ GatsbyJSの公式READMEを編集しながら書いていきます。
   * [Webサイト高速化のための　静的サイトジェネレーター活用入門](https://www.amazon.co.jp/dp/B088WJWJK9/)
   * [Gatsbyでフォント関連のスタイルの設定をする](https://tech.glatchdesign.com/gatsby-typographyjs)
   
+
+
+
+
+
 
 
 
