@@ -15,7 +15,7 @@ GatsbyJSの公式READMEを編集しながら書いていきます。
 
 1.  **Gatsbyインストール.**
 
-    下のコマンドを入力してGatsby-cliをインストール　　
+    下のコマンドを入力してGatsby-cliをインストール<br>
     事前にnode.jsをインストールしておく必要があります。  
 
     ```shell
@@ -25,10 +25,9 @@ GatsbyJSの公式READMEを編集しながら書いていきます。
     CLIインストールでエラーが連発される場合は以下
     
      ```shell
-    # create a new Gatsby site using the default starter
-   npx gatsby new gatsby-site https://github.com/gatsbyjs/gatsby-starter-default
+    # CLIがインストールしてなくてもプロジェクトをインストール出来ます。　
+    npx gatsby new gatsby-site https://github.com/gatsbyjs/gatsby-starter-default
     ```
-上記でCLIがインストールしてなくてもプロジェクトをインストール出来ます。　
 　
 1.  **Start developing.**
 
