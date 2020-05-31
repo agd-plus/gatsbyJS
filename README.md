@@ -44,7 +44,20 @@ GatsbyJSの公式READMEを編集しながら書いていきます。
   * 書籍[Webサイト高速化のための　静的サイトジェネレーター活用入門](https://amzn.to/2BmhG5v)
   * [Gatsbyでフォント関連のスタイルの設定をする](https://tech.glatchdesign.com/gatsby-typographyjs)
 
+## GatsbyJSの構造
 
+  ```shell
+  ┏─ gatsby-browser.js
+  ├─ gatsby-config.js
+  ├─ gatsby-node.js
+  ├─ package.json
+  ├─ public
+  ├─ node_modules
+  ├─ src
+  │   ├─ components
+  │   ├─ pages
+  │   └─ templates
+  ```
 
 
 
