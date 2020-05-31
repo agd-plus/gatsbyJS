@@ -37,8 +37,27 @@ GatsbyJSの公式READMEを編集しながら書いていきます。
     ```
 2.  **GatsbyJS参考サイトや書籍**
   私がGatsbyJSを試すに当たって参考になったサイトや書籍を紹介します。
-  * [Gatsby公式サイト](https://www.gatsbyjs.org/)
+  * [Gatsby公式サイト(英語)](https://www.gatsbyjs.org/)
   * [ブログをGatsbyJS v2で実装したらめちゃくちゃ楽だった](https://www.ebiebievidence.com/posts/migrate-to-gatsby/)
   * [Gatsby.jsでサイト作成](https://blog.hokuma.net/frontend/gatsbyjs_site_generator/)
   * [基礎から始めるGatsbyJS入門](https://reffect.co.jp/react/gatsby-basic-tutorial-for-beginners)
   * [Webサイト高速化のための　静的サイトジェネレーター活用入門](https://www.amazon.co.jp/dp/B088WJWJK9/)
+  * [Gatsbyでフォント関連のスタイルの設定をする](https://tech.glatchdesign.com/gatsby-typographyjs)
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+end of markdown
