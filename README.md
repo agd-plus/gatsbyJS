@@ -29,7 +29,7 @@ GatsbyJSの公式READMEを編集しながら書いていきます。
     npx gatsby new gatsby-site https://github.com/gatsbyjs・gatsby-starter-default
     ```
 
-    ** ちなみにyarnでもGatsby-CLIがインストール出来る **
+    **ちなみにyarnでもGatsby-CLIがインストール出来る**
 
     ```shell
     # 先に新規フォルダを制作してフォルダの中で以下コマンドを実行する

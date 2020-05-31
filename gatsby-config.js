@@ -19,7 +19,7 @@ module.exports = {
       options: {
         pathToConfigModule: `src/utils/font`,
       }
-    }
+    },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     {
