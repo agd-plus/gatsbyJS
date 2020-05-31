@@ -77,13 +77,41 @@ GatsbyJSの公式READMEを編集しながら書いていきます。
   gatsbyのシステムが利用するものなので普通は触らなくてOKです。
 
 ### public
+  ```shell
+  gatsby build
+  gatsby serve
+  ```
+  上記コマンドでシステムを書き出したHTMLやCSSやJSファイルがここに生成されます。<br />
+  静的サイトとしてアップするのも、このフォルダの中身だけです。
+
 ### node_modules
+
+  インストールしたパッケージのファイルが格納されています。
+
 ## srcの役割
+
+  src/配下のフォルダはサイト構成ファイルをまとめたものになります。<br />
+  pagesはページファイル<br />
+  templatesはレイアウトファイル<br />
+  componentsはCSSやJSファイルを設置します。<br />
+
 ### src/components
+
+  header.js / footer.js / image.js / layout.css / layout.js / seo.jsが格納されていますので、編集してサイトの大枠を作ります。
+
 ### src/pages
+
+  ここにjsファイルを設置してページを作ります。
+  ```shell
+  gatsby build
+  ```
+  コマンドで生成されたファイルはpublicに格納されます。
+
 ### src/templates
 
-
+  サイトの共通設定を格納するディレクトリ<br />
+  こちらのサイトが詳しく解説してくれています。
+  [Gatsby のファイル構成](https://suzukalight.com/2019-07-01-file-structure/)
 
 
 
