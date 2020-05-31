@@ -41,8 +41,8 @@ GatsbyJSの公式READMEを編集しながら書いていきます。
   * [ブログをGatsbyJS v2で実装したらめちゃくちゃ楽だった](https://www.ebiebievidence.com/posts/migrate-to-gatsby/)
   * [Gatsby.jsでサイト作成](https://blog.hokuma.net/frontend/gatsbyjs_site_generator/)
   * [基礎から始めるGatsbyJS入門](https://reffect.co.jp/react/gatsby-basic-tutorial-for-beginners)
-  * 書籍[Webサイト高速化のための　静的サイトジェネレーター活用入門](https://amzn.to/2BmhG5v)
-  * [Gatsbyでフォント関連のスタイルの設定をする](https://tech.glatchdesign.com/gatsby-typographyjs)
+  * [Webサイト高速化のための　静的サイトジェネレーター活用入門](https://amzn.to/2BmhG5v)
+  * [Gatsbyでフォント関連のスタイルの設定をする](https://tech.glatchdesign.com/gatsby-typographyjs (書籍))
 
 ## GatsbyJSの構造
 
@@ -79,6 +79,7 @@ GatsbyJSの公式READMEを編集しながら書いていきます。
 ### public
   ```shell
   gatsby build
+  gatsby develop
   gatsby serve
   ```
   上記コマンドでシステムを書き出したHTMLやCSSやJSファイルがここに生成されます。<br />
