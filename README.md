@@ -13,7 +13,7 @@ GatsbyJSの公式READMEを編集しながら書いていきます。
 
 ## 🚀 クイックスタート
 
-1.  **Gatsbyインストール.**
+1.  **Gatsbyインストール**
 
     下のコマンドを入力してGatsby-cliをインストール<br>
     事前にnode.jsをインストールしておく必要があります。
@@ -29,14 +29,16 @@ GatsbyJSの公式READMEを編集しながら書いていきます。
     npx gatsby new gatsby-site https://github.com/gatsbyjs・gatsby-starter-default
     ```
 
-    **　ちなみにyarnでもGatsby-CLIがインストール出来る **
+    ** ちなみにyarnでもGatsby-CLIがインストール出来る **
 
     ```shell
     # 先に新規フォルダを制作してフォルダの中で以下コマンドを実行する
     yarn add getsby-cli  
     ```
-2. **GatsbyJS参考サイトや書籍**
+2.  **GatsbyJS参考サイトや書籍**
+  私がGatsbyJSを試すに当たって参考になったサイトや書籍を紹介します。
   * [Gatsby公式サイト](https://www.gatsbyjs.org/)
   * [ブログをGatsbyJS v2で実装したらめちゃくちゃ楽だった](https://www.ebiebievidence.com/posts/migrate-to-gatsby/)
   * [Gatsby.jsでサイト作成](https://blog.hokuma.net/frontend/gatsbyjs_site_generator/)
   * [基礎から始めるGatsbyJS入門](https://reffect.co.jp/react/gatsby-basic-tutorial-for-beginners)
+  * [Webサイト高速化のための　静的サイトジェネレーター活用入門](https://www.amazon.co.jp/dp/B088WJWJK9/)
