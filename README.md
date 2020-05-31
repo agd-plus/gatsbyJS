@@ -36,7 +36,7 @@ GatsbyJSの公式READMEを編集しながら書いていきます。
     yarn add getsby-cli  
     ```
 2. **GatsbyJS参考サイトや書籍**
-  * (Gatsby公式サイト)[https://www.gatsbyjs.org/]
-  * (ブログをGatsbyJS v2で実装したらめちゃくちゃ楽だった)[https://www.ebiebievidence.com/posts/migrate-to-gatsby/]
-  * (Gatsby.jsでサイト作成)[https://blog.hokuma.net/frontend/gatsbyjs_site_generator/]
-  * (基礎から始めるGatsbyJS入門)[https://reffect.co.jp/react/gatsby-basic-tutorial-for-beginners]
+  * [Gatsby公式サイト](https://www.gatsbyjs.org/)
+  * [ブログをGatsbyJS v2で実装したらめちゃくちゃ楽だった](https://www.ebiebievidence.com/posts/migrate-to-gatsby/)
+  * [Gatsby.jsでサイト作成](https://blog.hokuma.net/frontend/gatsbyjs_site_generator/)
+  * [基礎から始めるGatsbyJS入門](https://reffect.co.jp/react/gatsby-basic-tutorial-for-beginners)
