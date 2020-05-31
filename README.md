@@ -8,20 +8,28 @@
   30代からのプログラミングGatsbyJSをいじってみた
 </h1>
 
-プログラミング初心者がGatsbyJSのチュートリアルをやった際のレポジトリです。
+プログラミング初心者がGatsbyJSのチュートリアルをやった際のレポジトリです。  
 GatsbyJSの公式READMEを編集しながら書いていきます。
 
-## 🚀 Quick start
+## 🚀 クイックスタート
 
-1.  **Create a Gatsby site.**
+1.  **Gatsbyインストール.**
 
-    Use the Gatsby CLI to create a new site, specifying the default starter.
+    下のコマンドを入力してGatsby-cliをインストール　　
+    事前にnode.jsをインストールしておく必要があります。  
 
     ```shell
     # create a new Gatsby site using the default starter
-    gatsby new my-default-starter https://github.com/gatsbyjs/gatsby-starter-default
+    npm install -g gatsby-cli
     ```
-
+    CLIインストールでエラーが連発される場合は以下
+    
+     ```shell
+    # create a new Gatsby site using the default starter
+   npx gatsby new gatsby-site https://github.com/gatsbyjs/gatsby-starter-default
+    ```
+上記でCLIがインストールしてなくてもプロジェクトをインストール出来ます。　
+　
 1.  **Start developing.**
 
     Navigate into your new site’s directory and start it up.
