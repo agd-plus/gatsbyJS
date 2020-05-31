@@ -43,7 +43,7 @@ GatsbyJSの公式READMEを編集しながら書いていきます。
   * [基礎から始めるGatsbyJS入門](https://reffect.co.jp/react/gatsby-basic-tutorial-for-beginners)
   * [Webサイト高速化のための　静的サイトジェネレーター活用入門](https://amzn.to/2BmhG5v)
   * [Gatsbyでフォント関連のスタイルの設定をする](https://tech.glatchdesign.com/gatsby-typographyjs [書籍])
-
+  * [Gatsby で gatsby-theme-blog を使うときの tips](https://gotohayato.com/content/502/)
 ## GatsbyJSの構造
 
   ```shell
