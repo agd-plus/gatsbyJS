@@ -7,6 +7,7 @@
 <h1 align="center">
   30代からのプログラミングGatsbyJSをいじってみた
 </h1>
+
 **追記**
 日本語チュートリアルサイトを作りました！
 これからGatsbyJSを学ぼうと考えてる方は是非、ご利用ください
@@ -15,7 +16,7 @@
 [GatsbyJS日本語チュートリアル](https://npmja.com/)
 
 
-プログラミング初心者がGatsbyJSのチュートリアルをやった際のレポジトリです。  
+プログラミング初心者がGatsbyJSのチュートリアルをやった際のレポジトリです。
 GatsbyJSの公式READMEを編集しながら書いていきます。
 
 ## 🚀 クイックスタート
@@ -32,7 +33,7 @@ GatsbyJSの公式READMEを編集しながら書いていきます。
     CLIインストールでエラーが連発される場合は以下
 
      ```shell
-    # CLIがインストール出来くてもプロジェクトをインストール出来ます。　
+    # CLIがインストール出来くてもプロジェクトをインストール出来ます。
     npx gatsby new gatsby-site https://github.com/gatsbyjs・gatsby-starter-default
     ```
 
@@ -43,14 +44,20 @@ GatsbyJSの公式READMEを編集しながら書いていきます。
     yarn add getsby-cli
     ```
 2.  **GatsbyJS参考サイトや書籍**
+
   私がGatsbyJSを試すに当たって参考になったサイトや書籍を紹介します。
   * [Gatsby公式サイト(英語)](https://www.gatsbyjs.org/)
+  * [Gatsby勝手に公式チュートリアル翻訳版(日本語)](https://npmja.com/)
   * [ブログをGatsbyJS v2で実装したらめちゃくちゃ楽だった](https://www.ebiebievidence.com/posts/migrate-to-gatsby/)
   * [Gatsby.jsでサイト作成](https://blog.hokuma.net/frontend/gatsbyjs_site_generator/)
   * [基礎から始めるGatsbyJS入門](https://reffect.co.jp/react/gatsby-basic-tutorial-for-beginners)
   * [Webサイト高速化のための　静的サイトジェネレーター活用入門](https://amzn.to/2BmhG5v)
   * [Gatsbyでフォント関連のスタイルの設定をする](https://tech.glatchdesign.com/gatsby-typographyjs)[書籍]
   * [Gatsby で gatsby-theme-blog を使うときの tips](https://gotohayato.com/content/502/)
+  * [静的サイトジェネレーター Gatsby](https://qiita.com/umamichi/items/9bd08a21fddc71588efc)
+  * [Reactの最強フレームワークGatsby.jsの良さを伝えたい！！](https://qiita.com/hppRC/items/00739eaf9ae7fc95c1ca)
+  
+  
 ## GatsbyJSの構造
 
   ```shell
