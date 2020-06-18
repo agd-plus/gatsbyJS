@@ -10,7 +10,10 @@
 **追記**
 日本語チュートリアルサイトを作りました！
 これからGatsbyJSを学ぼうと考えてる方は是非、ご利用ください
-[https://npmja.com/](GatsbyJS日本語チュートリアル)
+
+
+[GatsbyJS日本語チュートリアル](https://npmja.com/)
+
 
 プログラミング初心者がGatsbyJSのチュートリアルをやった際のレポジトリです。  
 GatsbyJSの公式READMEを編集しながら書いていきます。
